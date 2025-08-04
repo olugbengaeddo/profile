@@ -1,13 +1,33 @@
-Profile Summary
-Hi, I'm Olugbenga Eddo — a product leader who builds with engineers.
+# Hi, I'm Olugbenga Eddo — Product Strategist for Technical Teams
 
-Currently: Product Lead at [Obiex) – helping build user-focused cryptocurrency features with minimal friction.
+I help fast-moving companies bring complex products to life — from **crypto infrastructure** to **AI-powered marketing platforms**. My work blends **technical insight**, **user empathy**, and **product velocity**.
 
-Interests: AI infrastructure • DevOps for ML • Crypto & Embedded Systems • Product-market fit
+---
 
-Featured Projects:
-- **LLM Infra Setup Blueprint**: Guide + Terraform + Docker-compose for containerized AI stacks
-- **Vision Stack Benchmarks**: Comparison of open-source vision models for edge devices
-- **Product Roadmap Starter**: GitHub Issue templates and Kanban boards for 0→1 launches
+## What I’ve Worked On
+- Shipped product at **Obiex**, a crypto exchange platform — leading feature rollouts and internal tooling for wallet, swap, and user systems.
+- Led product at **Mplify**, where we delivered an AI-based media and engagement platform for creators and marketers.
+- Building public playbooks for PMs managing **technical 0→1 product launches**.
 
-Let’s collaborate.
+---
+
+## Featured Projects
+### `llm-infra-blueprint`
+Containerized deployment templates and infra setup docs for enterprise-ready LLM servers.
+
+### `vision-stack-benchmark`
+Side-by-side benchmark of open-source vision models — accuracy, size, speed, edge compatibility.
+
+### `product-roadmap-kit`
+Notion-style planning templates, GitHub Projects boards, prioritization frameworks for PMs.
+
+---
+
+## Let’s Talk About
+- PM-ing for deeply technical products
+- Infra + model evaluation for AI/ML teams
+- Making GitHub a product showcase for non-dev PMs
+
+---
+
+📫 Reach out via [LinkedIn](https://linkedin.com/in/olugbenga-eddo) or star and fork anything you like.
